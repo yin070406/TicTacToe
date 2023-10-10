@@ -1,3 +1,3 @@
 # TicTacToe
 
-// Referenced from BroCode
+Referenced from BroCode
